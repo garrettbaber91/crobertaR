@@ -35,6 +35,10 @@ out <- score_croberta(
 )
 
 print(out)
+```
+
+### Output Example
+```md
 
 # A tibble: 3 × 6
   SubjectID text                                                       Joy  Fear Anger Sadness
