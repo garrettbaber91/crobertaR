@@ -21,9 +21,9 @@ library(tibble)
 test_df <- tibble(
   SubjectID = c(1, 2, 3),
   text = c(
-    "I woke up feeling calm and happy after a peaceful dream.",
-    "The dream was terrifying and filled with panic.",
-    "I felt angry at first, but then relieved and safe."
+    "I felt calm and happy, floating on a cloud",
+    "A man chased me with a knife and nearly cut me!",
+    "I couldn't believe she could betray me like that. But I forgave her and eventually felt peace."
   )
 )
 
